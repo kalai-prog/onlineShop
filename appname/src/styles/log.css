@@ -1,0 +1,14 @@
+label,input[type=text], button,input[type=password]{
+    height: 30px;
+    width: 250px;
+
+}
+#log{
+    border: 1px solid gray;
+    margin: auto;
+    height: 500px;
+    width: 600px;
+    padding-left: 30px;
+    padding-top: 20px;
+    background-color: rgb(241, 215, 213);
+}

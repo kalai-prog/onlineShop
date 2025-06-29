@@ -1,0 +1,70 @@
+.search input[type=text]{
+
+    width: 100%;
+    height: 40px;
+    border-radius: 20px;
+    padding-left: 50px;
+    margin-top: 8%;
+
+}
+.search .search-icon{
+    position: absolute;
+    left: 40px;
+    top: 103px;
+    transform: translateY(-50%);
+    height: 30px;
+    width: 30px;
+}
+.offertag{
+    border: 0.3px solid lightgray;
+    height: 150px;
+    width: auto;
+    margin: 20px;
+    background-color: rgb(230, 240, 93);
+    border-radius: 30px; 
+    text-align: center;
+    
+}
+.offertag label{
+   font-size: 35px;
+}
+.offertag img{
+    height: 120px;
+    position:absolute;
+    top: 170px;
+    right: 300px;
+}
+.dress img{
+    height: 140px;
+    position: absolute;
+    top: 155px;
+    left: 250px;
+}
+label{
+color: blue;
+
+}
+.deliver{
+    border: 5px solid gold;
+    height: 150px;
+    width: 100%;
+    column-count: 3;
+    column-gap: 40px;
+    column-rule: 1px solid gold;
+    margin-top: 1%;
+    background-color: rgb(120, 240, 214);
+    border-radius: 60px;
+    text-align: center;
+}
+.deliver img{
+    height: 90px;
+    width: 100%;
+   
+}
+.kidscombo{
+    border:2px solid gold;
+    height: 320px;
+    margin-top: 1%;
+    background-color:pink;
+
+}

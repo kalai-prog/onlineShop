@@ -1,0 +1,13 @@
+.languages{
+    border:2px solid lightgrey;
+    padding: 10px;
+    margin: 10px;
+    height: 50px;
+  
+}
+.languages button{
+    background-color: rgb(252, 166, 6);
+    height: 30px;
+    margin-left: 100px;
+    border-radius: 20px;
+}

@@ -1,0 +1,22 @@
+.help img{
+    height:250px;
+    width: 100%;
+    object-fit: contain;
+    
+    
+}
+.help{
+    margin: 10px;
+    border: 5px solid lightblue;
+    float:left;
+    width: 250px;
+    height: 330px;
+    text-align: center;  
+}
+.helpcenter{
+    background-color: azure;
+    margin: 50px;
+    height: 350px;
+    width: max-content;
+    border-style: none;
+}

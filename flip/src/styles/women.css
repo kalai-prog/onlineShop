@@ -1,0 +1,17 @@
+img{
+    height:250px;
+    width: 100%;
+    object-fit: contain;
+    
+    
+}
+.gallery{
+    margin: 10px;
+    border: 1px solid lightgray;
+    float:left;
+    width: 250px;
+    height: 330px;
+    text-align: center;
+    
+    
+}

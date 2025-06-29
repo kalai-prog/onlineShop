@@ -1,0 +1,11 @@
+.account img{
+   height: 300px;
+   margin-top: 150px;
+}
+.account button{
+    border-radius: 20px;
+    color: rgb(0, 174, 255);
+}
+.account{
+    text-align: center;
+}
